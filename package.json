@@ -1,0 +1,9 @@
+{
+  "name": "CodeshipTest",
+  "description": "Just a test",
+  "author": "esauOp",
+  "dependencies": {
+    "express": "3.x"
+  },
+  "engine": "node 0.10.25"
+}
